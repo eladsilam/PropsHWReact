@@ -1,0 +1,7 @@
+
+
+.main {
+  background: var(--clr-white);
+  border-radius: var(--radius);
+  padding: 5rem;
+}
